@@ -1,0 +1,82 @@
+{
+  "cafe_name": "☕ COFFEE HEAVEN ☕",
+  "total_revenue": 0.0,
+  "customers": [
+    {
+      "id": 1,
+      "name": "Ali Veli",
+      "email": "ali@email.com",
+      "phone": "5551234567",
+      "balance": 200.0,
+      "loyalty_points": 0,
+      "order_history": [],
+      "created_at": "2025-10-14T22:54:46.626277",
+      "type": "RegularCustomer"
+    },
+    {
+      "id": 2,
+      "name": "Zeynep Kaya",
+      "email": "zeynep@email.com",
+      "phone": "5559876543",
+      "balance": 500.0,
+      "loyalty_points": 0,
+      "order_history": [],
+      "created_at": "2025-10-14T22:54:46.626277",
+      "type": "PremiumCustomer"
+    },
+    {
+      "id": 3,
+      "name": "Can Öztürk",
+      "email": "can@email.com",
+      "phone": "5556547890",
+      "balance": 1000.0,
+      "loyalty_points": 0,
+      "order_history": [],
+      "created_at": "2025-10-14T22:54:46.627290",
+      "type": "VIPCustomer"
+    }
+  ],
+  "baristas": [
+    {
+      "id": 1,
+      "name": "Ayşe Yılmaz",
+      "email": "ayse@cafe.com",
+      "experience_years": 5,
+      "hourly_rate": 60.0,
+      "total_orders_completed": 0,
+      "total_earnings": 0.0,
+      "is_on_duty": false,
+      "performance_rating": 5.0,
+      "statistics": {
+        "total_orders": 0,
+        "total_earnings": 0.0,
+        "efficiency": 0.0,
+        "performance_rating": 5.0,
+        "experience_years": 5,
+        "current_status": "Vardiya Dışı",
+        "availability": "Meşgul"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mehmet Demir",
+      "email": "mehmet@cafe.com",
+      "experience_years": 3,
+      "hourly_rate": 55.0,
+      "total_orders_completed": 0,
+      "total_earnings": 0.0,
+      "is_on_duty": false,
+      "performance_rating": 5.0,
+      "statistics": {
+        "total_orders": 0,
+        "total_earnings": 0.0,
+        "efficiency": 0.0,
+        "performance_rating": 5.0,
+        "experience_years": 3,
+        "current_status": "Vardiya Dışı",
+        "availability": "Meşgul"
+      }
+    }
+  ],
+  "last_saved": "2025-10-14T22:56:11.979787"
+}
