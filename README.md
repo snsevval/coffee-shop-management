@@ -42,11 +42,3 @@ Nesne Yönelimli Programlama (OOP) prensipleriyle geliştirilmiş kapsamlı bir 
 - CafeManager tüm sınıfları yönetir
 
 
-## 🔮 Gelecek Geliştirmeler
-
-- [ ] GUI (Tkinter/PyQt5)
-- [ ] Veritabanı entegrasyonu (SQLite/PostgreSQL)
-- [ ] REST API
-- [ ] Kullanıcı authentication
-
-- [ ] Email bildirimleri
